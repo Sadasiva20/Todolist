@@ -62,7 +62,15 @@ Installation
    Right click it and choose open integrated terminal.
    run the command npm i.
    
-5. Open your browser and go to `http://localhost:3000` (for frontend) and `http://localhost:5000` (for backend) to see the app in action.
+4. Build the development server:
+
+   npx remix vite:build
+
+5. Run the development server:
+
+   npx remix-serve ./build/server/index.js
+   
+6. Open your browser and go to `http://localhost:3000` (for frontend) and `http://localhost:5000` (for backend) to see the app in action.
 Usage
 1. Add a Task: Type a task description in the input field and click **Add Task** to add it to the list.
 2. Edit a Task: Click on any task to edit its description.
