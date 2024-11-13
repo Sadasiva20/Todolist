@@ -42,7 +42,7 @@ Technologies Used
     The app uses modern TypeScript features such as  async/await , arrow functions,  destructuring, and template literals for cleaner and more readable code.
 
 
- Getting Started
+Getting Started
 
 Prerequisites
 
@@ -50,36 +50,18 @@ Node.js: Ensure that Node.js and npm are installed on your system. You can downl
 Installation
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone 
 
 2. Navigate to the project directory:
    bash
    cd todo-list-app
  
-3. Set up the backend:
-    Navigate to the backend folder:
-    `bash
-     cd backend
-    Install the backend dependencies:
-     bash
-     npm install
- 
-   Run the backend server:
-    bash
-     npm start
+3. Install the required dependencies:
 
-4. Set up the frontend:
-   Navigate to the frontend folder:
-     bash
-     cd ../frontend
-     
-   Install the frontend dependencies:
-     bash
-     npm install
-     
-   Run the React development server:
-     bash
-     npm start
+   In your ide of choice locate the package.json file.
+   Right click it and choose open integrated terminal.
+   run the command npm i.
+   
 5. Open your browser and go to `http://localhost:3000` (for frontend) and `http://localhost:5000` (for backend) to see the app in action.
 Usage
 1. Add a Task: Type a task description in the input field and click **Add Task** to add it to the list.
