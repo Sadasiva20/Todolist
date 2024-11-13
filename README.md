@@ -15,7 +15,7 @@ Persistent Data Storage: The tasks are stored in a database via the backend, ens
 Responsive Design: The app looks great on both mobile and desktop devices, thanks to Tailwind CSS.
 Remix plays a key role by handling server-side rendering, efficient data loading, and routing, improving both the app's performance and maintainability.
 
- Features
+Features
 Add Tasks: Add new tasks with just a click and a few keystrokes.
 Edit Tasks: Update task descriptions directly in the list.
 Delete Tasks: Remove unnecessary tasks with the click of a button.
@@ -26,7 +26,7 @@ Responsive UI: Tailored for both desktop and mobile views with Tailwind CSS.
 Technologies Used
 
 1. React
-  React is used to build the frontend of the application. It allows for a component-based architecture, enabling efficient rendering when tasks are added, edited, or deleted.
+   React is used to build the frontend of the application. It allows for a component-based architecture, enabling efficient rendering when tasks are added, edited, or deleted.
    Features: Component-based UI, state management with hooks, and dynamic re-rendering.
 
 2. Node.js
@@ -38,8 +38,8 @@ Technologies Used
     Tailwind CSS is a utility-first CSS framework that allows for building custom designs quickly and responsively. It's used for styling the application with minimal custom CSS.
      Features: Utility classes for fast styling, customizable themes, and responsive design utilities.
 
-8. JavaScript (ES6+)
-    The app uses modern JavaScript features such as  async/await ,  arrow functions,    destructuring, and template literals for cleaner and more readable code.
+8. TypeScript (ES6+)
+    The app uses modern TypeScript features such as  async/await , arrow functions,  destructuring, and template literals for cleaner and more readable code.
 
 
  Getting Started
