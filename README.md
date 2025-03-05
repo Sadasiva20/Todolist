@@ -4,7 +4,7 @@ This is a simple and efficient To-Do List application built using React for the 
 
 Project Description
 
-The To-Do List App is designed to help users manage their tasks efficiently. It leverages **React** for building the user interface, Node.js with Express.js for the backend, and Tailwind CSS for fast, responsive styling. The app uses Remix for dynamic routing and improved server-side rendering (SSR), optimizing performance and providing an excellent developer experience.
+The To-Do List App is designed to help users manage their tasks efficiently. It leverages **React** for building the user interface, Node.js and Tailwind CSS for fast, responsive styling. The app uses Remix for dynamic routing and improved server-side rendering (SSR), optimizing performance and providing an excellent developer experience.
 
 Key Features:
 Add Tasks: Users can easily add new tasks to their to-do list.
@@ -75,4 +75,8 @@ Usage
 1. Add a Task: Type a task description in the input field and click **Add Task** to add it to the list.
 2. Edit a Task: Click on any task to edit its description.
 3. Delete a Task: Click on the delete button next to a task to remove it from the list.
+
+Live demo
+'https://sivasan29.com/tasklist'
+
 
